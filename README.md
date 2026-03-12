@@ -4,6 +4,7 @@ This repository contains SQL exercises, concepts, and case studies.
 
 ## Structure
 
+```
 sql-practice/
 │
 ├── README.md
@@ -60,6 +61,7 @@ sql-practice/
     ├── job_listings.csv
     └── ecommerce_sample.csv
 
+```
 ### Problems
 Solutions to SQL problems from platforms like LeetCode and HackerRank.
 
