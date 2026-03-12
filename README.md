@@ -57,6 +57,9 @@ sql-practice/
 │   └── cte/
 │       └── recursive_cte_examples.sql
 │
+│── case_studies/
+│
+│
 └── datasets/
     ├── job_listings.csv
     └── ecommerce_sample.csv
